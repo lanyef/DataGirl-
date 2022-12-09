@@ -1,0 +1,105 @@
+
+.rounded-4{
+    border-radius: 20px;
+    background-color: deeppink;
+    margin-bottom:26px;
+}
+.bg-pink{
+    font-weight: bold;
+    color: white;
+   
+    
+}
+.fos{
+    color: deeppink;
+    font-size: 49px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.we{
+    margin-bottom: 40px;
+}
+.btn{
+    margin-top: 20px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+.h2{
+    align-items: center;
+    padding: 6%;
+}
+.full{
+    border: 1px solid ;
+    border-radius: 20px;
+    padding-left: 40px;
+
+}
+.row{
+
+}
+.st{
+    margin-top: 50px;
+}
+.im{
+    width: 250px; 
+}
+.im1{
+    width: 300px;
+}
+.bot{
+   background-image: url('./Image/wood.jpeg');
+   padding: 160px;
+   color: white;
+   font-size: 70px;
+   margin-bottom: 80px;
+}
+.rounded-2{
+    border-radius: 10px;
+    background-color: deeppink;
+    margin-bottom:26px;
+    padding: 15px;
+}
+.tx{
+    color: white;
+}
+.pr a{
+    display: block;
+    text-decoration: none;
+    padding: 30px 90px 0px 0px;
+    line-height: 20px;
+    color: deeppink;
+}
+.foot{
+    color: white;
+    background-color: deeppink;
+    padding: 25px 50px;
+}
+.nex{
+    width: 600px;
+}
+.dev{
+    width: 50%;
+}
+.white{
+    color: white;
+}
+.sub1{
+    background: black;
+}
+.mg{
+    border-radius: 20px;
+    margin-bottom: 40px;
+}
+.app{
+    background-color:#abb8c3;
+}
+.rounded-6{
+    border-radius: 20px;
+}
+.tec{
+    margin-right: 35px;
+    margin-left: 35px;
+}
+.mg1{
+
+}
